@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalilafares&label=Profile%20views&color=0e75b6&style=flat" alt="dalilafares" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, ReactJs, Redux, UI/UX Design**
+- 🌱 I’m currently learning **Spring Boot, ReactJs, Redux, UI/UX Design, SEO**
   
 - ✨ I am passionate about **Web Development**
   
